@@ -1,0 +1,26 @@
+
+.background_cars{
+    background-color: #ccc;
+    padding: 25px;
+    border: solid 2px rgba(0,0,0,.6);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.title_car{
+    color: #000;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.2);
+}
+.description_cars{
+    color: #333;
+    text-shadow: 2px 2px 2px rgba(0,0,0,.2);
+}
+
+.text_cars{
+    color:red;
+}
+
+.text_cars:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
